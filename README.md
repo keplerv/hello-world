@@ -1,4 +1,4 @@
 # hello-world
 วิชา ITEC1307 E-Commerce
 
-วันนี่พอ!!!
+วันนี่ ieie
